@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://master.d3602wvmlcwogb.amplifyapp.com"
 # website language
 languageCode = "en"
 # [en, zh, ...] determines which i18n file to use
